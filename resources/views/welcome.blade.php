@@ -127,6 +127,7 @@
                     </div>
                 </div>
             </div>
+            <a href="{{ secure_url('page1') }}"> PAGE1 </a>
         </div>
     </body>
 </html>
